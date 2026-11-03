@@ -20,6 +20,7 @@ Preprocessing steps include:
 - **Image Normalization**: Scaling pixel values to [0, 1] range.
 - **Data Augmentation**: Techniques like rotation, flipping, and color jittering to improve model generalization.
 
+**Dataset Link** : (https://www.kaggle.com/datasets/khoidb/flare7k/data)
 ## **Model Architecture**
 
 The model consists of the following components:
